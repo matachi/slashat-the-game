@@ -396,7 +396,7 @@ public class Game implements ApplicationListener, InputProcessor {
 					
 					timer += world.getDelta();
 					if (won) {
-						if (timer > 5) {
+						if (timer > 8) {
 							level = 3;
 							create();
 							Timeline.createSequence()
