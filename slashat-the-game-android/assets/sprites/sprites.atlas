@@ -1,0 +1,138 @@
+
+sprites.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+logo
+  rotate: false
+  xy: 1, 396
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+airbase_light1
+  rotate: false
+  xy: 1, 304
+  size: 160, 90
+  orig: 160, 90
+  offset: 0, 0
+  index: -1
+airbase_light2
+  rotate: false
+  xy: 1, 212
+  size: 160, 90
+  orig: 160, 90
+  offset: 0, 0
+  index: -1
+airbase_light3
+  rotate: false
+  xy: 163, 304
+  size: 160, 90
+  orig: 160, 90
+  offset: 0, 0
+  index: -1
+airbase_light4
+  rotate: false
+  xy: 1, 120
+  size: 160, 90
+  orig: 160, 90
+  offset: 0, 0
+  index: -1
+airbase_scene
+  rotate: false
+  xy: 163, 212
+  size: 160, 90
+  orig: 160, 90
+  offset: 0, 0
+  index: -1
+tommie_room
+  rotate: false
+  xy: 325, 304
+  size: 160, 90
+  orig: 160, 90
+  offset: 0, 0
+  index: -1
+airbase_people2
+  rotate: false
+  xy: 1, 54
+  size: 160, 64
+  orig: 160, 64
+  offset: 0, 0
+  index: -1
+airbase_people1
+  rotate: false
+  xy: 163, 157
+  size: 160, 53
+  orig: 160, 53
+  offset: 0, 0
+  index: -1
+airbase_people3
+  rotate: false
+  xy: 325, 264
+  size: 160, 38
+  orig: 160, 38
+  offset: 0, 0
+  index: -1
+airbase_jezper
+  rotate: false
+  xy: 487, 377
+  size: 161, 17
+  orig: 161, 17
+  offset: 0, 0
+  index: -1
+tommie_char
+  rotate: false
+  xy: 1, 15
+  size: 108, 37
+  orig: 108, 37
+  offset: 0, 0
+  index: -1
+tommie_table
+  rotate: false
+  xy: 963, 890
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 163, 131
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+button_pressed
+  rotate: false
+  xy: 325, 238
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+airbase_ball
+  rotate: false
+  xy: 487, 360
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+tommie_button_green
+  rotate: false
+  xy: 650, 382
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+tommie_button_red
+  rotate: false
+  xy: 1, 1
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+tommie_legs
+  rotate: false
+  xy: 111, 34
+  size: 4, 18
+  orig: 4, 18
+  offset: 0, 0
+  index: -1
