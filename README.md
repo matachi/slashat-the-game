@@ -8,8 +8,8 @@ Development platform: Ubuntu 12.10
 Libraries: LibGDX, Artemis, Universal Tween Engine, Box2D  
 Made during March 2013 for One Game A Month
 
-![Screenshot 1](images/screenshot1.png)  
-![Screenshot 2](images/screenshot2.png)
+![Screenshot 1](blog/screenshot1.png)  
+![Screenshot 2](blog/screenshot2.png)
 
 ## Install on your Android device from Google Play
 
