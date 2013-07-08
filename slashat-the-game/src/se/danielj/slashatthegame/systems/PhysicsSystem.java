@@ -14,6 +14,12 @@ import com.badlogic.gdx.graphics.OrthographicCamera;
 import com.badlogic.gdx.physics.box2d.Body;
 import com.badlogic.gdx.physics.box2d.World;
 
+/**
+ * 
+ * @author Daniel Jonsson
+ * @license GNU GPLv3
+ *
+ */
 public class PhysicsSystem extends VoidEntitySystem {
 	@Mapper ComponentMapper<Position> pm;
 	@Mapper ComponentMapper<Size> sm;

@@ -2,6 +2,12 @@ package se.danielj.slashatthegame.misc;
 
 import com.badlogic.gdx.audio.Music;
 
+/**
+ * 
+ * @author Daniel Jonsson
+ * @license GNU GPLv3
+ *
+ */
 public class Song {
 	private Music song;
 	private float volume;

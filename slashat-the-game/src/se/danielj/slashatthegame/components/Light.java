@@ -2,6 +2,12 @@ package se.danielj.slashatthegame.components;
 
 import com.artemis.Component;
 
+/**
+ * 
+ * @author Daniel Jonsson
+ * @license GNU GPLv3
+ *
+ */
 public class Light extends Component {
 	private float speed;
 	private float alpha;

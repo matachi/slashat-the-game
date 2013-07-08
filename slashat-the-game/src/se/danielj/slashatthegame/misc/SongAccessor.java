@@ -2,6 +2,12 @@ package se.danielj.slashatthegame.misc;
 
 import aurelienribon.tweenengine.TweenAccessor;
 
+/**
+ * 
+ * @author Daniel Jonsson
+ * @license GNU GPLv3
+ *
+ */
 public class SongAccessor implements TweenAccessor<Song> {
 	public static final int VOLUME = 1;
 	public static final int PLAY = 2;

@@ -10,5 +10,6 @@
 	<classpathentry exported="true" kind="lib" path="/slashat-the-game/libs/artemis.jar"/>
 	<classpathentry exported="true" kind="lib" path="/slashat-the-game/libs/tween-engine-api.jar"/>
 	<classpathentry exported="true" kind="lib" path="/slashat-the-game/libs/gdx-freetype.jar"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>

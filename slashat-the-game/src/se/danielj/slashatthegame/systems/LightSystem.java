@@ -9,6 +9,12 @@ import com.artemis.Entity;
 import com.artemis.annotations.Mapper;
 import com.artemis.systems.EntityProcessingSystem;
 
+/**
+ * 
+ * @author Daniel Jonsson
+ * @license GNU GPLv3
+ *
+ */
 public class LightSystem extends EntityProcessingSystem {
 	@Mapper ComponentMapper<Light> lm;
 	@Mapper ComponentMapper<Sprite> sm;

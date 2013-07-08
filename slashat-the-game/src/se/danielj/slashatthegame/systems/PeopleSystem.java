@@ -11,6 +11,12 @@ import com.artemis.EntitySystem;
 import com.artemis.annotations.Mapper;
 import com.artemis.utils.ImmutableBag;
 
+/**
+ * 
+ * @author Daniel Jonsson
+ * @license GNU GPLv3
+ *
+ */
 public class PeopleSystem extends EntitySystem {
 	@Mapper ComponentMapper<Position> pm;
 	@Mapper ComponentMapper<People> pem;

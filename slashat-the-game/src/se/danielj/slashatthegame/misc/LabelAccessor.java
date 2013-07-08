@@ -4,6 +4,12 @@ import aurelienribon.tweenengine.TweenAccessor;
 
 import com.badlogic.gdx.scenes.scene2d.ui.Label;
 
+/**
+ * 
+ * @author Daniel Jonsson
+ * @license GNU GPLv3
+ *
+ */
 public class LabelAccessor implements TweenAccessor<Label> {
 	public static final int POSITION_X = 1;
 	public static final int POSITION_Y = 2;

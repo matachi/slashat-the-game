@@ -10,6 +10,12 @@ import com.artemis.Entity;
 import com.artemis.annotations.Mapper;
 import com.artemis.systems.EntityProcessingSystem;
 
+/**
+ * 
+ * @author Daniel Jonsson
+ * @license GNU GPLv3
+ *
+ */
 public class TableSystem extends EntityProcessingSystem {
 	@Mapper ComponentMapper<Position> pm;
 

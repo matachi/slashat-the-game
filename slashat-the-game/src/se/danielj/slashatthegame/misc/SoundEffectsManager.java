@@ -3,6 +3,12 @@ package se.danielj.slashatthegame.misc;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.audio.Sound;
 
+/**
+ * 
+ * @author Daniel Jonsson
+ * @license GNU GPLv3
+ *
+ */
 public class SoundEffectsManager {
 
 	private static Sound explodeSound;

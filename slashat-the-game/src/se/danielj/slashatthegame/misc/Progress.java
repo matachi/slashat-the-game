@@ -1,5 +1,11 @@
 package se.danielj.slashatthegame.misc;
 
+/**
+ * 
+ * @author Daniel Jonsson
+ * @license GNU GPLv3
+ *
+ */
 public class Progress {
 	private static double progress;
 	public static void init() {
